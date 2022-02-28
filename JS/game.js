@@ -1,4 +1,5 @@
 
+//Catch the bomb//
 
 var gameSettings = [8,20,20,15,30];
 
